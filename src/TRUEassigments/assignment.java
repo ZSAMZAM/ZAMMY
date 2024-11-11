@@ -1,3 +1,7 @@
+NAME= ZAMZAM ESMAEL ABDULLAHI
+ID=C1220214        
+
+
 package TRUEassigments;
 
 import java.util.Stack;
