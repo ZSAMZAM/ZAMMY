@@ -1,3 +1,7 @@
+NAME= ZAMZAM ESMAEL ABDULLAHI
+ID= C1220214    
+
+
 package TRUEassigments;
 
 public class same_assignment {
